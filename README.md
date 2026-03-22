@@ -1,20 +1,38 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
-# Run and deploy your AI Studio app
+## fast.jessejesse.com
+## <a href="fast.jessejesse.com">FAST</a>
 
-This contains everything you need to run your app locally.
+### Overview
 
-View your app in AI Studio: https://ai.studio/apps/121e3a73-a82a-4494-b42c-43d81384362d
+A fast, lightweight version of the main site designed for speed, simplicity, and accessibility. Optimized for quick loading and minimal distractions.
 
-## Run Locally
+----------
 
-**Prerequisites:**  Node.js
+### Screenshots
 
+#### Homepage
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+![Homepage Screenshot](https://github.com/user-attachments/assets/4b1ba3ff-21b6-4e59-b4c3-a0a2538e99ec)
+
+#### Interface View
+
+![Interface Screenshot](https://github.com/user-attachments/assets/1df716be-7766-4310-8156-bd0f5451ccc7)
+
+#### Additional View
+
+![Additional Screenshot](https://github.com/user-attachments/assets/f86c1999-a1f0-4f3d-9199-2c9335106c9a)
+
+----------
+
+#### EXAMPLE
+
+[SEE THE DEMO](https://lightfighter719.github.io/)
+
+### Key Features
+
+-   **Fast load times** — optimized assets and minimal scripts
+-   **Clean UI** — distraction-free interface
+-   **Responsive design** — works across devices
+-   **Focused experience** — streamlined content delivery
+
+----------
