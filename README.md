@@ -23,6 +23,10 @@ A fast, lightweight version of the main site designed for speed, simplicity, and
 
 ----------
 
+#### EXAMPLE
+
+[SEE THE DEMO](https://lightfighter719.github.io/)
+
 ### Key Features
 
 -   **Fast load times** — optimized assets and minimal scripts
